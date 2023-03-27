@@ -372,7 +372,7 @@ More specific to ZK:
 | ZKPDL | / | High-level | https://github.com/brownie/cashlib | http://cs.brown.edu/research/brownie/usenix10.pdf |
 | zkVM | / | Stack machine with a string of bytecode representing ZkVM instructions | https://github.com/stellar/slingshot/tree/main/zkvm | https://github.com/stellar/slingshot/files/3164245/zkvm-whitepaper-2019-05-09.pdf | 
 | lurk | Protocol Labs | Lurk is a statically scoped dialect of Lisp, influenced by Scheme and Common Lisp | https://github.com/lurk-lang/lurk-rs | https://github.com/lurk-lang/lurk/blob/master/spec/v0-1.md |
-| Polylang | Polybase | Polylang allows developers to declaratively define the schemas and functions for their collections in a decentralized database | https://github.com/polybase/polylang | https://github.com/polybase/polylang-compiler |
+| Polylang | Polybase | Polylang allows developers to declaratively define the schemas and functions for their collections in a decentralized database | https://github.com/polybase/polylang | https://github.com/polybase/docs |
 
 ## Programming Libraries 
 
